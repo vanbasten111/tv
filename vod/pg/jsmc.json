@@ -369,9 +369,10 @@
 			"type": 3,
 			"api": "./lib/drpy1.min.js",
 			"ext": "./lib/88看球.js",
+			"jar": "./fty.jar",
 			"style": {
-			  "type": "rect",
-			  "ratio": 1
+				"type": "rect",
+				"ratio": 1
 			},
 			"searchable": 0,
 			"quickSearch": 0,
@@ -383,6 +384,7 @@
 			"type": 3,
 			"api": "./lib/drpy1.min.js",
 			"ext": "./lib/JRKAN直播.js",
+			"jar": "./fty.jar",
 			"style": {
 			  "type": "rect",
 			  "ratio": 1
@@ -397,6 +399,7 @@
 			"type": 3,
 			"api": "./lib/drpy1.min.js",
 			"ext": "./lib/310直播.js",
+			"jar": "./fty.jar",
 			"style": {
 			  "type": "rect",
 			  "ratio": 1
@@ -410,6 +413,7 @@
 			"name": "🐧企鹅┃体育",
 			"type": 3,
 			"api": "csp_XPath",
+			"jar": "./fty.jar",
 			"style": {
 			  "type": "rect",
 			  "ratio": 1.597
@@ -423,6 +427,7 @@
 			"name": "🔥体育直播",
 			"type": 3,
 			"api": "py_freezb",
+			"jar": "./fty.jar",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
